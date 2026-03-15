@@ -42,6 +42,25 @@ pip install -r requirements.txt
 Run the notebook:
 
 jupyter notebook
+## Model Results
+
+### CNN Accuracy
+![CNN Accuracy](results/CNN_ACCURACY.jpeg)
+
+### CNN Loss
+![CNN Loss](results/CNN_LOSS.jpeg)
+
+### MobileNetV2 Loss
+![MobileNetV2 Loss](results/MobileNetV2_LOSS.jpeg)
+
+### Confusion Matrix (CNN)
+![Confusion Matrix CNN](results/Confusion_Cnn.jpeg)
+
+### Confusion Matrix (MobileNetV2)
+![Confusion Matrix MobileNetV2](results/Confusion_mobileNetV2.jpeg)
+
+### Model Architecture
+![CNN Model](results/CNN_Model.jpeg)
 
 ## Author
 Bibi Hazaratun Nesa
